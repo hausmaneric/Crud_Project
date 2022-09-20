@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "dd",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 12.5,
+      "comment": "Teste",
+      "date": "2022-09-20T03:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
